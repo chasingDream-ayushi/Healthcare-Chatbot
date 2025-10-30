@@ -3,7 +3,7 @@ A lightweight and interactive healthcare chatbot built using **Node.js** for the
 It helps users with basic health-related queries, symptom checks, and wellness tips through a friendly chat interface.
 
 ---
-## **Features :**
+**Features :**
 
    1. Answers general health and symptom-related questions.
    2. Clean and responsive chat interface.
