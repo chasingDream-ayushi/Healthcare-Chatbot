@@ -1,6 +1,7 @@
 # **Healthcare-Chatbot**
 A lightweight and interactive healthcare chatbot built using **Node.js** for the backend and **HTML/CSS/JavaScript** for the frontend.
 It helps users with basic health-related queries, symptom checks, and wellness tips through a friendly chat interface.
+
 ---
 ## **Features :**
 
