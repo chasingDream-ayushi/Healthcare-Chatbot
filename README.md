@@ -17,10 +17,10 @@ Healthcare-Chatbot/
 ├── frontend/       # User interface (HTML, CSS, JS)  
 ├── .gitignore      # Ignored files  
 ├── README.md       # Project documentation  
----
+
 
 ## **Setup Instructions**
-
+---
 1. Clone the repository
 2. Install dependencies
 npm install
@@ -44,8 +44,9 @@ User sends a message → request goes to backend
 Backend uses OpenAI API to process and generate a response
 Reply is displayed in the chat interface
 You can also customize the data and logic by editing backend/data/conditions.json.
----
+
 **⚙ Notes**
+---
 The .env file is ignored and will not be uploaded to GitHub.
 You can add more diseases in backend/data/diseases.json.
 This project is for learning purposes.
