@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Malaria",
+        "queries": ["malaria", "fever due to malaria", "malaria symptoms"],
+        "reply": "Malaria is a mosquito-borne infectious disease. Common symptoms include fever, chills, headache, and muscle pain. Please consult a doctor for proper treatment."
+    },
+    {
+        "name": "Dengue",
+        "queries": ["dengue", "dengue fever", "dengue symptoms"],
+        "reply": "Dengue is caused by a virus transmitted by mosquitoes. Symptoms include high fever, severe headache, joint pain, and rash. Seek medical advice immediately."
+    },
+    {
+        "name": "Common Cold",
+        "queries": ["cold", "runny nose", "sneezing", "common cold symptoms"],
+        "reply": "Common cold is a viral infection of the upper respiratory tract. Symptoms include sneezing, runny nose, sore throat, and cough. Rest and fluids help recovery."
+    },
+    {
+        "name": "Flu",
+        "queries": ["flu", "influenza", "flu symptoms"],
+        "reply": "Influenza is a contagious viral infection that affects the respiratory system. Symptoms include fever, chills, muscle aches, fatigue, and cough. Consult your healthcare provider for proper care."
+    },
+    {
+        "name": "COVID-19",
+        "queries": ["covid", "coronavirus", "covid symptoms"],
+        "reply": "COVID-19 is a viral respiratory illness caused by the coronavirus. Symptoms include fever, dry cough, fatigue, and loss of taste or smell. Follow safety guidelines and consult a doctor if needed."
+    },
+    {
+        "name": "Hypertension",
+        "queries": ["high blood pressure", "hypertension", "bp high"],
+        "reply": "Hypertension is a condition where blood pressure is consistently too high. It may lead to heart problems. Regular monitoring, a balanced diet, and exercise can help manage it. Consult a doctor for proper treatment."
+    },
+    {
+        "name": "Diabetes",
+        "queries": ["diabetes", "blood sugar", "diabetic"],
+        "reply": "Diabetes is a chronic condition where the body cannot regulate blood sugar levels effectively. Symptoms include excessive thirst, frequent urination, and fatigue. Proper medication and lifestyle changes are important."
+    },
+    {
+        "name": "Asthma",
+        "queries": ["asthma", "difficulty breathing", "wheezing"],
+        "reply": "Asthma is a respiratory condition that causes inflammation and narrowing of airways. Symptoms include shortness of breath, wheezing, and coughing. Avoid triggers and follow prescribed treatment."
+    },
+    {
+        "name": "Migraine",
+        "queries": ["migraine", "headache", "severe headache"],
+        "reply": "Migraine is a neurological condition characterized by intense headaches, often with nausea and sensitivity to light or sound. Managing stress and medication can help. Consult a doctor."
+    },
+    {
+        "name": "Anemia",
+        "queries": ["anemia", "low hemoglobin", "iron deficiency"],
+        "reply": "Anemia is a condition where the blood lacks enough healthy red blood cells. Symptoms include fatigue, weakness, and pale skin. Iron-rich foods and supplements can help treat it."
+    },
+    {
+        "name": "Allergy",
+        "queries": ["allergy", "sneezing", "itchy eyes", "skin rash"],
+        "reply": "Allergies occur when the immune system overreacts to harmless substances. Common symptoms include sneezing, itching, and skin irritation. Avoid allergens and consult a doctor for treatment."
+    },
+    {
+        "name": "Arthritis",
+        "queries": ["arthritis", "joint pain", "stiff joints"],
+        "reply": "Arthritis causes inflammation in the joints, leading to pain and stiffness. Regular exercise, a healthy diet, and medications can alleviate symptoms. Consult a healthcare provider."
+    },
+    {
+        "name": "Heart Disease",
+        "queries": ["heart disease", "chest pain", "palpitations"],
+        "reply": "Heart disease includes various conditions affecting the heart. Symptoms may include chest pain, shortness of breath, and fatigue. Early diagnosis and lifestyle changes are essential."
+    },
+    {
+        "name": "Kidney Stones",
+        "queries": ["kidney stones", "pain in side", "urine problems"],
+        "reply": "Kidney stones are hard deposits of minerals and salts that form in the kidneys. They can cause severe pain and difficulty urinating. Drink plenty of water and seek medical advice."
+    },
+    {
+        "name": "Thyroid Disorder",
+        "queries": ["thyroid", "hyperthyroidism", "hypothyroidism"],
+        "reply": "Thyroid disorders affect hormone regulation in the body. Symptoms include fatigue, weight changes, and mood swings. Blood tests can confirm diagnosis and proper medication helps."
+    },
+    {
+        "name": "Skin Infection",
+        "queries": ["skin infection", "rash", "itchy skin"],
+        "reply": "Skin infections are caused by bacteria, viruses, or fungi. Symptoms include redness, itching, and sores. Maintain hygiene and consult a healthcare provider for proper treatment."
+    },
+    {
+        "name": "Stomach Ulcer",
+        "queries": ["stomach ulcer", "ulcer pain", "acidity"],
+        "reply": "Stomach ulcers are open sores that develop on the stomach lining. Symptoms include burning pain, bloating, and nausea. Avoid spicy foods and consult a doctor for treatment."
+    },
+    {
+        "name": "Depression",
+        "queries": ["depression", "sadness", "mental health"],
+        "reply": "Depression is a mood disorder that causes persistent feelings of sadness and loss of interest. Therapy, medication, and support can help manage symptoms. Seek professional help."
+    },
+    {
+        "name": "Anxiety",
+        "queries": ["anxiety", "stress", "nervousness"],
+        "reply": "Anxiety is a feeling of worry or fear that can interfere with daily activities. Deep breathing, relaxation techniques, and counseling can help. Talk to a healthcare professional."
+    },
+    {
+        "name": "Greetings",
+        "queries": ["hello", "hi", "hey", "greetings", "good morning", "good evening"],
+        "reply": "Hello! I'm HealthBot, your personal health assistant. How can I help you today?"
+    },
+    {
+        "name": "Wellbeing",
+        "queries": ["how are you", "are you okay", "how do you feel"],
+        "reply": "I'm here to help you with your health-related questions anytime. How can I assist you today?"
+    },
+    {
+        "name": "Health Tips",
+        "queries": ["health tips", "stay healthy", "fitness advice"],
+        "reply": "Drink plenty of water, eat balanced meals, exercise regularly, and get enough sleep. Maintaining these habits promotes overall well-being."
+    },
+    
+    {
+    "name": "Thanks",
+    "queries": ["thanks", "thank you", "ok thanks"],
+    "reply": "You're welcome! Let me know if you have any other health questions."
+    },
+    {
+    "name": "Goodbye",
+    "queries": ["bye", "goodbye", "see you"],
+    "reply": "Goodbye! Take care and stay healthy."
+    },
+    {
+    "name": "Wellness",
+    "queries": ["good night", "have a good day", "take care"],
+    "reply": "Thank you! Wishing you good health and happiness."
+    }
+
+]
