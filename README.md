@@ -3,6 +3,7 @@ A lightweight and interactive healthcare chatbot built using **Node.js** for the
 It helps users with basic health-related queries, symptom checks, and wellness tips through a friendly chat interface.
 
 ---
+
 ## **Features :**
 
    1. Answers general health and symptom-related questions.
@@ -10,7 +11,9 @@ It helps users with basic health-related queries, symptom checks, and wellness t
    3. Integrates OpenAI API for intelligent responses.
    4. Simple structure — easy to update or extend.
    5. Data-driven — new conditions can be added easily.
+
  ---  
+ 
 ## **Project Structure**
 
 Healthcare-Chatbot/
@@ -20,6 +23,7 @@ Healthcare-Chatbot/
 ├── README.md       # Project documentation  
 
 ---
+
 ## **Setup Instructions**
 
 **1. Clone the repository**
@@ -40,6 +44,7 @@ You should see: Backend running on http://localhost:5000
 Open ```frontend/index.html``` in your browser and start chatting!
 
 ---
+
 **How It Works?**
 
 User sends a message → request goes to backend
@@ -48,6 +53,7 @@ Reply is displayed in the chat interface
 You can also customize the data and logic by editing backend/data/conditions.json.
 
 ---
+
 **⚙ Notes**
 
 The ```.env``` file is ignored and will not be uploaded to GitHub.
