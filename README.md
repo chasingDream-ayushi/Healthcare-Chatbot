@@ -19,23 +19,23 @@ Healthcare-Chatbot/
 ├── README.md       # Project documentation  
 
 
-## **Setup Instructions**
+``` ## **Setup Instructions**``` 
 ---
-1. Clone the repository
-2. Install dependencies
+**1. Clone the repository**
+**2. Install dependencies**
 npm install
 
-3. Create .env file in backend/ folder
+**3. Create .env file in backend/ folder**
 Add the following content: OPENAI_API_KEY=your_openai_api_key
 
 Replace your_openai_api_key with your actual OpenAI API key.
 
-4. Run the backend
+**4. Run the backend**
 node index.js
 
 You should see: Backend running on http://localhost:5000
 
-5. Open the frontend
+**5. Open the frontend**
 Open frontend/index.html in your browser and start chatting!
 
 **How It Works?**
@@ -51,5 +51,5 @@ The .env file is ignored and will not be uploaded to GitHub.
 You can add more diseases in backend/data/diseases.json.
 This project is for learning purposes.
 
----
+
 **Your friendly health companion — in code.**
